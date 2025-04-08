@@ -1,5 +1,3 @@
-Here's your full project converted into a clean and professional `README.md` format for GitHub or portfolio use:
-
 ---
 
 ```markdown
